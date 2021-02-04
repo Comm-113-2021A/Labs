@@ -1,5 +1,5 @@
 ---
-title: "Lab 01 - Global plastic waste"
+title: "Lab 02 - Global plastic waste"
 output: 
   tufte::tufte_html:
     css: ../lab.css
@@ -34,7 +34,7 @@ Complete the following steps before you join the live workshop!
 **IMPORTANT:** If there is no GitHub repo created for you for this assignment, it means I didn't have your GitHub username as of when I assigned the homework. Please let me know your GitHub username asap, and I can create your repo.
 ```
 
-Go to the course [GitHub organization](https://github.com/ids-s1-20) and locate your Lab 01 repo, which should be named `lab-01-plastic-waste-YOUR_GITHUB_USERNAME`.
+Go to the course [GitHub organization](https://github.com/Comm-113-2021A) and locate your Lab 01 repo, which should be named `lab-02-plastic-waste-YOUR_GITHUB_USERNAME`.
 If you're in the right place, it should look like the following.
 
 ```{r echo=FALSE, eval=TRUE}
@@ -42,7 +42,7 @@ knitr::include_graphics("img/repo-begin.png")
 ```
 
 Grab the URL of the repo, and clone it in RStudio.
-Refer to [HW 00](https://ids-s1-20.github.io/homework/hw-00/hw-00-pet-names.html) if you would like to see step-by-step instructions for cloning a repo into an RStudio project.
+Refer to [HW 01](https://comm-113-2021a.github.io/Slides/Lab01/hw-00-pet-names.html) if you would like to see step-by-step instructions for cloning a repo into an RStudio project.
 
 First, open the R Markdown document `lab-01.Rmd` and Knit it.
 Make sure it compiles without errors.
