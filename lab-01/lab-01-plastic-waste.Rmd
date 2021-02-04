@@ -34,7 +34,7 @@ Complete the following steps before you join the live workshop!
 **IMPORTANT:** If there is no GitHub repo created for you for this assignment, it means I didn't have your GitHub username as of when I assigned the homework. Please let me know your GitHub username asap, and I can create your repo.
 ```
 
-Go to the course [GitHub organization](https://github.com/Comm-113-2021A) and locate your Lab 01 repo, which should be named `lab-02-plastic-waste-YOUR_GITHUB_USERNAME`.
+Go to the course [GitHub organization](https://github.com/Comm-113-2021A) and locate your Lab 02 repo, which should be named `lab-02-plastic-waste-YOUR_GITHUB_USERNAME`.
 If you're in the right place, it should look like the following.
 
 ```{r echo=FALSE, eval=TRUE}
