@@ -1,5 +1,5 @@
 ---
-title: "Lab 04 - University of Edinburgh Art Collection"
+title: "Lab 06 - University of Edinburgh Art Collection"
 output: 
   tufte::tufte_html:
     css: ../lab.css
@@ -47,7 +47,7 @@ Complete the following steps before you join the live workshop!
 
 You have three tasks you should complete before the workshop:
 
--   **Task 1:** Watch [this week's videos](https://www.introds.org/post/06-week/)!
+-   **Task 1:** Watch this week's videos!
 
 ```{r selectorgadget, fig.margin = TRUE, echo = FALSE}
 knitr::include_graphics("img/selectorgadget.png")
@@ -63,7 +63,7 @@ knitr::include_graphics("img/selectorgadget.png")
 Complete the following steps during the live workshop with your team.
 :::
 
-As usual, start out by cloning your lab repo, named `lab-04-uoe-art-YOUR_TEAMNAME`.
+As usual, start out by cloning your lab repo, named `lab-06-uoe-art-YOUR_TEAMNAME`.
 Each team member should clone the repo and you should take turns working on various parts of the lab.
 Note that each team member should make commits to the repository to be eligible for points for this assignment.
 And remember that when each team member takes over, their first action should be to pull from repo before adding more content.
